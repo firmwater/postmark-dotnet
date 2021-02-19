@@ -2,12 +2,12 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2</TargetFrameworks>
     <AssemblyTitle>PostmarkDotNet</AssemblyTitle>
-    <PackageProjectUrl>https://github.com/wildbit/postmark-dotnet/wiki</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/wildbit/postmark-dotnet/raw/master/postmark-logo.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/wildbit/postmark-dotnet.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/firmwater/postmark-dotnet/wiki</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/firmwater/postmark-dotnet/raw/master/postmark-logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/firmwater/postmark-dotnet.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>3.4</Version>
-    <Company>Wildbit, LLC.</Company>
+    <Version>3.4.1</Version>
+    <Company>Wildbit, LLC & Firmwater Inc.</Company>
     <Description>The official .net client for Postmark.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
