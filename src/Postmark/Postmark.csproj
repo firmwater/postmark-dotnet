@@ -7,7 +7,7 @@
     <RepositoryUrl>https://github.com/firmwater/postmark-dotnet.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Version>3.4.1</Version>
-    <Company>Wildbit, LLC & Firmwater Inc.</Company>
+    <Company>Wildbit, LLC and Firmwater Inc.</Company>
     <Description>The official .net client for Postmark.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
